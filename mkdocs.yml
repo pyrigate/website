@@ -1,0 +1,12 @@
+site_name: pyrigate
+theme:
+  palette:
+    scheme: default
+    primary: green
+  name: material
+  logo: assets/pyrigate-logo.png
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
